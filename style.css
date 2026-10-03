@@ -1,0 +1,13 @@
+/* Warning! If you change your stylesheet, you'll need
+ * to reload the page to see the changes */
+
+body {
+    font-family: sans-serif;
+    background: blue;
+    color: white;
+}
+
+img {
+    height: 800px;
+    width: auto;
+}
